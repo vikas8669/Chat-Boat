@@ -109,7 +109,7 @@ body.hide-header .header{
 }
 
 .typing-area {
-  position: relative;
+  position: fixed;
   width: 100%;
   bottom: 0;
 }
