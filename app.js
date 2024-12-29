@@ -8,7 +8,7 @@ const deleteBtn = document.querySelector("#delete");
 let userMessage = null;
 let isReasonse = false; 
 
-const apiKey = `AIzaSyBEeAPm4DcU2BCFdNGA2B8R2ChTOPAY_tM`;
+const apiKey = `AIzaSyCTP68GnajLQemMZYNiv4dQ9j8sFfqbZV8`;
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
 const loadLocaldtorageData = () => {
